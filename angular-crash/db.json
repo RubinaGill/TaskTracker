@@ -17,6 +17,12 @@
       "text": "Meeting at College",
       "day": "May 7th at 1:30pm",
       "reminder": false
+    },
+    {
+      "text": "complete angular course",
+      "day": "3 Aug 2021 4:00 PM",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
